@@ -90,6 +90,6 @@ Function cost=cost()
 Global T F Di Pi conductivity
 %calculate annual op cost based on water and power consumption, salt, filter replacement, maintenance, and other contingencies
 AnnualCost=Electricity*0.089+1.5*F*1000*2*3600+
-%calculate capital cost based on piping, and equipment installation
+%calculate cadfdfdpital cost based on piping, and equipment installation
 
 end
